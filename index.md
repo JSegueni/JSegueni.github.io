@@ -1,37 +1,15 @@
 ## JSegueni Personal Page -- In Development
 
-You can use the [editor on GitHub](https://github.com/JSegueni/JSegueni.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Current Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a PhD student, I'm currently working on 3D Genomics in breast cancer cells.
 
-### Markdown
+### CTCF binding in breast cancer cells
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CTCF is an 11 zinc-finger protein highly-prevalent in Topologically Associating Domains (TAD) boundaries. CTCF binding sites are most of the time convergently oriented, allowing for its coordination with the Cohesin protein complex during loop extrusion and TAD formation. Thus, it is essential to precisely identify CTCF binding sites in our breast cancer model.  
 
-```markdown
-Syntax highlighted code block
+### 3D Genomics: Hi-C with CNV identification 
 
-# Header 1
-## Header 2
-### Header 3
+Hi-C allows for the identification of chromatin interaction in our breast cancer model.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSegueni/JSegueni.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cancer Hi-C maps allow for the identification of Copy Number Variations and how they impact gene regulation and expression.
