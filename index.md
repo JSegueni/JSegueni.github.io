@@ -13,3 +13,7 @@ CTCF is an 11 zinc-finger protein highly-prevalent in Topologically Associating 
 Hi-C allows for the identification of chromatin interaction in our breast cancer model.
 
 Cancer Hi-C maps allow for the identification of Copy Number Variations and how they impact gene regulation and expression.
+
+### Editing the TopDom TAD calling algorithm
+
+Here, I edited the TopDom TAD calling algorithm to overcome a minor overflow bug: https://github.com/JSegueni/TopDom
