@@ -16,4 +16,4 @@ Cancer Hi-C maps allow for the identification of Copy Number Variations and how 
 
 ### Editing the TopDom TAD calling algorithm
 
-I edited the TopDom TAD calling algorithm to overcome a minor overflow bug: <a href https://github.com/JSegueni/TopDom> here. </a> 
+I edited the TopDom TAD calling algorithm to overcome a minor overflow bug: [here](https://github.com/JSegueni/TopDom). </a> 
